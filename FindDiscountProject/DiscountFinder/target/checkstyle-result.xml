@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.29">
+<file name="C:\Users\csuser\Downloads\StevenCarrigerHW5\DiscountFinder\src\main\java\edu\westga\cs3211\find_discount\Main.java">
+</file>
+<file name="C:\Users\csuser\Downloads\StevenCarrigerHW5\DiscountFinder\src\main\java\edu\westga\cs3211\find_discount\model\Category.java">
+</file>
+<file name="C:\Users\csuser\Downloads\StevenCarrigerHW5\DiscountFinder\src\main\java\edu\westga\cs3211\find_discount\model\Discount.java">
+</file>
+<file name="C:\Users\csuser\Downloads\StevenCarrigerHW5\DiscountFinder\src\main\java\edu\westga\cs3211\find_discount\model\DiscountManager.java">
+</file>
+<file name="C:\Users\csuser\Downloads\StevenCarrigerHW5\DiscountFinder\src\main\java\edu\westga\cs3211\find_discount\model\StringMatcher.java">
+</file>
+<file name="C:\Users\csuser\Downloads\StevenCarrigerHW5\DiscountFinder\src\main\java\edu\westga\cs3211\find_discount\view\codebehind\MainWindow.java">
+</file>
+<file name="C:\Users\csuser\Downloads\StevenCarrigerHW5\DiscountFinder\src\main\java\edu\westga\cs3211\find_discount\viewModel\MainWindowViewModel.java">
+</file>
+</checkstyle>
